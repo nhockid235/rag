@@ -200,6 +200,6 @@ nohup python rag_product.py --host 0.0.0.0 --port 7860 > rag.log 2>&1 &
 ---
 
 **Tác giả**: RAG Product Team  
-**Phiên bản**: 2.0.0 (Upgraded)  
-**Cập nhật**: 2024-10-24  
+**Phiên bản**: 2.0.2 (Upgraded)  
+**Cập nhật**: 2025-10-24  
 **Status**: ✅ Production Ready
